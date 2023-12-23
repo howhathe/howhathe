@@ -3,7 +3,7 @@
 
 ---
 
-- 🖥️ **Know** ***/*** **Understand**: `C++` ; `Rust` ; `Python` ***/*** `ASM` ; `HTML` & `CSS` & `JS`
+- 🖥️ **Know** ***/*** **Understand**: `C++` ; `Rust` ; `Python` ***;*** `ASM` ; `HTML` & `CSS` & `JS`
 - 🔭 **I’m currently working on** *>* `Small Projects`
 - 🌱 **I’m currently learning** *>* `Rust`
 - 😄 **Pronouns** *>* `he/him`
