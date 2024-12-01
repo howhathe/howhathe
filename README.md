@@ -1,5 +1,5 @@
 <h1 align="center">~ hi, it's me - howhathe ❄</h1>
-<p align="center">15.yo Coder & Reverse-Engineer and a little bit musician from 🇷🇺</p>
+<p align="center">16.yo Coder & Reverse-Engineer and a little bit beatkmaker from 🇷🇺</p>
 
 ---
 
